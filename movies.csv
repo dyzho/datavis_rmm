@@ -1,0 +1,2187 @@
+movie_title,title_year,imdb_score
+Avatar ,2009,7.9
+Pirates of the Caribbean: At World's End ,2007,7.1
+Spectre ,2015,6.8
+The Dark Knight Rises ,2012,8.5
+John Carter ,2012,6.6
+Spider-Man 3 ,2007,6.2
+Tangled ,2010,7.8
+Avengers: Age of Ultron ,2015,7.5
+Harry Potter and the Half-Blood Prince ,2009,7.5
+Batman v Superman: Dawn of Justice ,2016,6.9
+Quantum of Solace ,2008,6.7
+The Lone Ranger ,2013,6.5
+Man of Steel ,2013,7.2
+The Chronicles of Narnia: Prince Caspian ,2008,6.6
+The Avengers ,2012,8.1
+Pirates of the Caribbean: On Stranger Tides ,2011,6.7
+Men in Black 3 ,2012,6.8
+The Hobbit: The Battle of the Five Armies ,2014,7.5
+The Amazing Spider-Man ,2012,7
+Robin Hood ,2010,6.7
+The Hobbit: The Desolation of Smaug ,2013,7.9
+The Golden Compass ,2007,6.1
+Captain America: Civil War ,2016,8.2
+Battleship ,2012,5.9
+Jurassic World ,2015,7
+Skyfall ,2012,7.8
+Iron Man 3 ,2013,7.2
+Alice in Wonderland ,2010,6.5
+Monsters University ,2013,7.3
+Transformers: Revenge of the Fallen ,2009,6
+Transformers: Age of Extinction ,2014,5.7
+Oz the Great and Powerful ,2013,6.4
+The Amazing Spider-Man 2 ,2014,6.7
+TRON: Legacy ,2010,6.8
+Cars 2 ,2011,6.3
+Green Lantern ,2011,5.6
+Toy Story 3 ,2010,8.3
+Terminator Salvation ,2009,6.6
+Furious 7 ,2015,7.2
+World War Z ,2013,7
+X-Men: Days of Future Past ,2014,8
+Star Trek Into Darkness ,2013,7.8
+Jack the Giant Slayer ,2013,6.3
+The Great Gatsby ,2013,7.3
+Prince of Persia: The Sands of Time ,2010,6.6
+Pacific Rim ,2013,7
+Transformers: Dark of the Moon ,2011,6.3
+Indiana Jones and the Kingdom of the Crystal Skull ,2008,6.2
+The Good Dinosaur ,2015,6.8
+Brave ,2012,7.2
+Star Trek Beyond ,2016,7.5
+WALL·E ,2008,8.4
+Rush Hour 3 ,2007,6.2
+2012 ,2009,5.8
+A Christmas Carol ,2009,6.8
+Jupiter Ascending ,2015,5.4
+The Legend of Tarzan ,2016,6.6
+X-Men: Apocalypse ,2016,7.3
+The Dark Knight ,2008,9
+Up ,2009,8.3
+Monsters vs. Aliens ,2009,6.5
+Iron Man ,2008,7.9
+Hugo ,2011,7.5
+The Mummy: Tomb of the Dragon Emperor ,2008,5.2
+Suicide Squad ,2016,6.9
+Evan Almighty ,2007,5.4
+Edge of Tomorrow ,2014,7.9
+G.I. Joe: The Rise of Cobra ,2009,5.8
+Inside Out ,2015,8.3
+The Jungle Book ,2016,7.8
+Iron Man 2 ,2010,7
+Snow White and the Huntsman ,2012,6.1
+Maleficent ,2014,7
+Dawn of the Planet of the Apes ,2014,7.6
+The Lovers ,2015,4.5
+47 Ronin ,2013,6.3
+Captain America: The Winter Soldier ,2014,7.8
+Shrek Forever After ,2010,6.4
+Tomorrowland ,2015,6.5
+Big Hero 6 ,2014,7.9
+Wreck-It Ralph ,2012,7.8
+Independence Day: Resurgence ,2016,5.5
+How to Train Your Dragon ,2010,8.2
+Guardians of the Galaxy ,2014,8.1
+Interstellar ,2014,8.6
+Inception ,2010,8.8
+Godzilla Resurgence ,2016,8.2
+The Hobbit: An Unexpected Journey ,2012,7.9
+The Curious Case of Benjamin Button ,2008,7.8
+X-Men: First Class ,2011,7.8
+The Hunger Games: Mockingjay - Part 2 ,2015,6.6
+The Sorcerer's Apprentice ,2010,6.1
+Alice Through the Looking Glass ,2016,6.4
+Shrek the Third ,2007,6.1
+Warcraft ,2016,7.3
+Terminator Genisys ,2015,6.6
+The Chronicles of Narnia: The Voyage of the Dawn Treader ,2010,6.3
+Transformers ,2007,7.1
+Harry Potter and the Order of the Phoenix ,2007,7.5
+Hancock ,2008,6.4
+I Am Legend ,2007,7.2
+Ratatouille ,2007,8
+Madagascar: Escape 2 Africa ,2008,6.7
+Night at the Museum: Battle of the Smithsonian ,2009,5.9
+X-Men Origins: Wolverine ,2009,6.7
+Frozen ,2013,7.6
+Thor: The Dark World ,2013,7.1
+Mad Max: Fury Road ,2015,8.1
+Angels & Demons ,2009,6.7
+Thor ,2011,7
+Bolt ,2008,6.9
+G-Force ,2009,5.1
+Wrath of the Titans ,2012,5.8
+Dark Shadows ,2012,6.2
+Mission: Impossible - Rogue Nation ,2015,7.4
+The Wolfman ,2010,5.8
+The Legend of Tarzan ,2016,6.6
+Bee Movie ,2007,6.2
+Kung Fu Panda 2 ,2011,7.3
+The Last Airbender ,2010,4.2
+White House Down ,2013,6.4
+Mars Needs Moms ,2011,5.4
+Pan ,2015,5.8
+Mr. Peabody & Sherman ,2014,6.9
+Madagascar 3: Europe's Most Wanted ,2012,6.9
+Ghostbusters ,2016,5.5
+Beowulf ,2007,6.3
+Kung Fu Panda 3 ,2016,7.2
+Mission: Impossible - Ghost Protocol ,2011,7.4
+Rise of the Guardians ,2012,7.3
+Exodus: Gods and Kings ,2014,6.1
+Star Trek ,2009,8
+How to Train Your Dragon 2 ,2014,7.9
+Gods of Egypt ,2016,5.5
+Watchmen ,2009,7.7
+G.I. Joe: Retaliation ,2013,5.8
+Captain America: The First Avenger ,2011,6.9
+The Twilight Saga: Breaking Dawn - Part 2 ,2012,5.5
+Happy Feet 2 ,2011,5.9
+The Incredible Hulk ,2008,6.8
+The BFG ,2016,6.8
+The Revenant ,2015,8.1
+Turbo ,2013,6.5
+Rango ,2011,7.2
+Penguins of Madagascar ,2014,6.7
+The Bourne Ultimatum ,2007,8.1
+Kung Fu Panda ,2008,7.6
+Ant-Man ,2015,7.4
+The Hunger Games: Catching Fire ,2013,7.6
+The Twilight Saga: Breaking Dawn - Part 2 ,2012,5.5
+Home ,2015,6.7
+Puss in Boots ,2011,6.7
+Salt ,2010,6.4
+Noah ,2014,5.8
+The Adventures of Tintin ,2011,7.4
+Australia ,2008,6.6
+After Earth ,2013,4.9
+Harry Potter and the Deathly Hallows: Part II ,2011,7.5
+Night at the Museum: Secret of the Tomb ,2014,6.2
+Megamind ,2010,7.3
+R.I.P.D. ,2013,5.6
+Godzilla Resurgence ,2016,8.2
+Harry Potter and the Deathly Hallows: Part I ,2010,6.4
+The Hunger Games: Mockingjay - Part 1 ,2014,6.7
+Rio 2 ,2014,6.4
+Fast Five ,2011,7.3
+Sherlock Holmes: A Game of Shadows ,2011,7.5
+Clash of the Titans ,2010,5.8
+The Bourne Legacy ,2012,6.7
+Fantastic 4: Rise of the Silver Surfer ,2007,5.6
+Life of Pi ,2012,8
+Ghost Rider ,2007,5.2
+Jason Bourne ,2016,7.1
+Prometheus ,2012,7
+Elysium ,2013,6.6
+RoboCop ,2014,6.2
+Speed Racer ,2008,6.1
+How Do You Know ,2010,5.3
+Knight and Day ,2010,6.3
+Oblivion ,2013,7
+The Wolverine ,2013,6.7
+The Croods ,2013,7.3
+Asterix at the Olympic Games ,2008,5.1
+The Huntsman: Winter's War ,2016,6.1
+Teenage Mutant Ninja Turtles ,2014,5.9
+Gravity ,2013,7.8
+Teenage Mutant Ninja Turtles: Out of the Shadows ,2016,6.3
+Fantastic Four ,2015,4.3
+San Andreas ,2015,6.1
+Insurgent ,2015,6.3
+Gulliver's Travels ,2010,4.9
+The Green Hornet ,2011,5.8
+300: Rise of an Empire ,2014,6.2
+The Smurfs ,2011,5.5
+Allegiant ,2016,5.8
+Real Steel ,2011,7.1
+The Smurfs 2 ,2013,5.4
+Ender's Game ,2013,6.7
+Live Free or Die Hard ,2007,7.2
+The Princess and the Frog ,2009,7.1
+The Martian ,2015,8.1
+Public Enemies ,2009,7
+American Gangster ,2007,7.8
+The Taking of Pelham 1 2 3 ,2009,6.4
+Little Fockers ,2010,5.5
+The Other Guys ,2010,6.7
+Django Unchained ,2012,8.5
+The Expendables 2 ,2012,6.7
+Where the Wild Things Are ,2009,6.8
+Pan ,2015,5.8
+Epic ,2013,6.7
+The Tourist ,2010,6
+The Wolf of Wall Street ,2013,8.2
+Cloud Atlas ,2012,7.5
+Legend of the Guardians: The Owls of Ga'Hoole ,2010,7
+Hercules ,2014,6
+Land of the Lost ,2009,5.4
+The Expendables 3 ,2014,6.1
+Point Break ,2015,5.3
+In the Heart of the Sea ,2015,7
+Green Zone ,2010,6.9
+The Peanuts Movie ,2015,7.2
+The Flowers of War ,2011,7.6
+Surf's Up ,2007,6.8
+The Campaign ,2012,6.2
+Sex and the City 2 ,2010,4.3
+Ice Age: Continental Drift ,2012,6.6
+Cinderella ,2015,7
+The Lovely Bones ,2009,6.7
+Seventh Son ,2014,5.5
+Transcendence ,2014,6.3
+Rise of the Planet of the Apes ,2011,7.6
+The Spiderwick Chronicles ,2008,6.6
+A Good Day to Die Hard ,2013,5.3
+Percy Jackson & the Olympians: The Lightning Thief ,2010,5.9
+Unstoppable ,2010,6.8
+Cloudy with a Chance of Meatballs ,2009,7
+Ice Age: Dawn of the Dinosaurs ,2009,7
+The Secret Life of Walter Mitty ,2013,7.3
+Tropic Thunder ,2008,7
+The Girl with the Dragon Tattoo ,2011,7.8
+Sherlock Holmes ,2009,7.6
+Ben-Hur ,2016,6.1
+Alvin and the Chipmunks: The Road Chip ,2015,5
+Valkyrie ,2008,7.1
+You Don't Mess with the Zohan ,2008,5.5
+Pixels ,2015,5.6
+Percy Jackson: Sea of Monsters ,2013,5.9
+Now You See Me 2 ,2016,6.9
+Rio ,2011,7
+Fantastic Four ,2015,4.3
+The Nutcracker in 3D ,2010,4.4
+The Three Musketeers ,2011,5.8
+Hotel Transylvania ,2012,7.1
+Enchanted ,2007,7.1
+Safe House ,2012,6.8
+Tower Heist ,2011,6.2
+It's Complicated ,2009,6.6
+Ocean's Thirteen ,2007,6.9
+Divergent ,2014,6.7
+Arthur Christmas ,2011,7.1
+Mirror Mirror ,2012,5.6
+Scott Pilgrim vs. the World ,2010,7.5
+Dredd ,2012,7.1
+Cats & Dogs: The Revenge of Kitty Galore ,2010,4.3
+Jumper ,2008,6.1
+Hellboy II: The Golden Army ,2008,7
+Zodiac ,2007,7.7
+The Expendables ,2010,6.5
+The Hunger Games ,2012,7.3
+The Hangover Part II ,2011,6.5
+RED 2 ,2013,6.7
+Alvin and the Chipmunks: Chipwrecked ,2011,4.4
+Grown Ups 2 ,2013,5.4
+Get Smart ,2008,6.5
+Shutter Island ,2010,8.1
+Four Christmases ,2008,5.6
+Bedtime Stories ,2008,6.1
+Just Go with It ,2011,6.4
+Eagle Eye ,2008,6.6
+The Book of Eli ,2010,6.9
+The Day the Earth Stood Still ,2008,5.5
+Fury ,2014,7.6
+Yogi Bear ,2010,4.6
+Zookeeper ,2011,5.2
+Hotel Transylvania 2 ,2015,6.7
+Evolution ,2015,6.4
+Surrogates ,2009,6.3
+Walking with Dinosaurs 3D ,2013,5.2
+Nine ,2009,5.8
+The Last Witch Hunter ,2015,6
+Oceans ,2009,7.8
+Pompeii ,2014,5.6
+Top Cat Begins ,2015,4.4
+Journey 2: The Mysterious Island ,2012,5.8
+Cloudy with a Chance of Meatballs 2 ,2013,6.5
+Jack and Jill ,2011,3.4
+The Little Prince ,2015,7.8
+The Invasion ,2007,5.9
+The Secret Life of Pets ,2016,6.8
+Despicable Me 2 ,2013,7.5
+Wanted ,2008,6.7
+Hairspray ,2007,6.7
+Now You See Me ,2013,7.3
+Grown Ups ,2010,6
+Hotel for Dogs ,2009,5.4
+Charlie Wilson's War ,2007,7.1
+Killers ,2010,5.4
+The Man from U.N.C.L.E. ,2015,7.3
+Immortals ,2011,6.1
+Carriers ,2009,6
+Minions ,2015,6.4
+Sucker Punch ,2011,6.1
+The Angry Birds Movie ,2016,6.3
+Fool's Gold ,2008,5.6
+Funny People ,2009,6.4
+The Kingdom ,2007,7.1
+The Simpsons Movie ,2007,7.4
+The SpongeBob Movie: Sponge Out of Water ,2015,6
+Inglourious Basterds ,2009,8.3
+Hercules ,2014,6
+Alvin and the Chipmunks: The Squeakquel ,2009,4.5
+Olympus Has Fallen ,2013,6.5
+Battle Los Angeles ,2011,5.8
+War Horse ,2011,7.2
+The Monuments Men ,2014,6.1
+Wall Street: Money Never Sleeps ,2010,6.3
+Dracula Untold ,2014,6.3
+Stardust ,2007,7.7
+The Dilemma ,2011,5.3
+Underworld: Awakening ,2012,6.4
+Rock of Ages ,2012,5.9
+Killer Elite ,2011,6.5
+Legends of Oz: Dorothy's Return ,2013,5.6
+Blackhat ,2015,5.4
+Escape Plan ,2013,6.7
+The Legend of Hercules ,2014,4.2
+The Twilight Saga: Eclipse ,2010,4.9
+Despicable Me ,2010,7.7
+Ted 2 ,2015,6.4
+Agora ,2009,7.2
+Hall Pass ,2011,5.9
+The Finest Hours ,2016,6.8
+Body of Lies ,2008,7.1
+Dinner for Schmucks ,2010,5.9
+Abraham Lincoln: Vampire Hunter ,2012,5.9
+The Last Legion ,2007,5.4
+Need for Speed ,2014,6.5
+Lincoln ,2012,7.4
+Les Misérables ,2012,7.6
+Step Brothers ,2008,6.9
+Due Date ,2010,6.6
+Unbroken ,2014,7.2
+The Dictator ,2012,6.4
+Annie ,2014,5.2
+Focus ,2015,6.6
+This Means War ,2012,6.3
+Resident Evil: Retribution ,2012,5.4
+Death Race ,2008,6.4
+"I, Frankenstein ",2014,5.1
+Sin City: A Dame to Kill For ,2014,6.5
+Everest ,2015,7.1
+Astro Boy ,2009,6.3
+Dragon Blade ,2015,6.1
+The Love Guru ,2008,3.8
+The Hateful Eight ,2015,7.9
+Blades of Glory ,2007,6.3
+Hop ,2011,5.5
+Marley & Me ,2008,7.1
+Wild Hogs ,2007,5.9
+Gone Girl ,2014,8.1
+2 Guns ,2013,6.7
+Couples Retreat ,2009,5.5
+The Scorch Trials ,2015,6.4
+Eat Pray Love ,2010,5.7
+RED ,2010,7.1
+Jack Reacher ,2012,7
+This Is It ,2009,7.3
+Contagion ,2011,6.6
+Coraline ,2009,7.7
+The Happening ,2008,5
+ParaNorman ,2012,7
+The Tale of Despereaux ,2008,6.1
+Jack Ryan: Shadow Recruit ,2014,6.2
+Joy ,2015,6.6
+London Has Fallen ,2016,5.9
+Shooter ,2007,7.2
+The Boxtrolls ,2014,6.8
+The Lego Movie ,2014,7.8
+Gangster Squad ,2013,6.7
+Year One ,2009,4.9
+Invictus ,2009,7.4
+State of Play ,2009,7.1
+Duplicity ,2009,6.2
+Planet 51 ,2009,6.1
+Trouble with the Curve ,2012,6.8
+Edge of Darkness ,2010,6.6
+Righteous Kill ,2008,6
+The Soloist ,2009,6.7
+Priest ,2011,5.7
+The Avengers ,2012,8.1
+Winter's Tale ,2014,6.2
+The Mortal Instruments: City of Bones ,2013,6
+Meet Dave ,2008,4.9
+Inkheart ,2008,6.1
+The Spirit ,2008,4.8
+Mortdecai ,2015,5.5
+In the Name of the King: A Dungeon Siege Tale ,2007,3.8
+Xi you ji zhi: Sun Wukong san da Baigu Jing ,2016,6
+Deadpool ,2016,8.1
+American Sniper ,2014,7.3
+Goosebumps ,2015,6.4
+Leatherheads ,2008,6
+The Ridiculous 6 ,2015,4.9
+Did You Hear About the Morgans? ,2009,4.7
+The Internship ,2013,6.3
+Resident Evil: Afterlife ,2010,5.9
+Red Tails ,2012,5.9
+That's My Boy ,2012,5.6
+Ghost Rider: Spirit of Vengeance ,2011,4.3
+Alvin and the Chipmunks ,2007,5.2
+Captain Phillips ,2013,7.9
+Date Night ,2010,6.3
+The Equalizer ,2014,7.2
+Mr. Popper's Penguins ,2011,6
+The Forbidden Kingdom ,2008,6.6
+Free Birds ,2013,5.9
+Paddington ,2014,7.2
+The Watch ,2012,5.7
+Semi-Pro ,2008,5.8
+The Pirates! Band of Misfits ,2012,6.7
+Changeling ,2008,7.8
+Elizabeth: The Golden Age ,2007,6.9
+Imagine That ,2009,5.6
+Muppets Most Wanted ,2014,6.4
+Burlesque ,2010,6.4
+Seven Pounds ,2008,7.7
+Bullet to the Head ,2012,5.7
+Black Mass ,2015,7
+Law Abiding Citizen ,2009,7.4
+Grindhouse ,2007,7.6
+Lucky You ,2007,5.9
+Zero Dark Thirty ,2012,7.4
+Mamma Mia! ,2008,6.3
+Valentine's Day ,2010,5.7
+The Change-Up ,2011,6.4
+From Paris with Love ,2010,6.5
+The Twilight Saga: New Moon ,2009,4.6
+The Adjustment Bureau ,2011,7.1
+Ted ,2012,7
+Anchorman 2: The Legend Continues ,2013,6.3
+Super 8 ,2011,7.1
+22 Jump Street ,2014,7.1
+Yes Man ,2008,6.8
+Central Intelligence ,2016,6.6
+Daddy's Home ,2015,6.1
+Into the Woods ,2014,6
+We Bought a Zoo ,2011,7.1
+Knowing ,2009,6.2
+"Crazy, Stupid, Love. ",2011,7.4
+Moneyball ,2011,7.6
+Non-Stop ,2014,7
+Race to Witch Mountain ,2009,5.7
+Hansel & Gretel: Witch Hunters ,2013,6.1
+I Am Number Four ,2011,6.1
+13 Hours ,2016,7.4
+The Book of Life ,2014,7.3
+American Reunion ,2012,6.7
+Into the Storm ,2014,5.8
+The Judge ,2014,7.4
+Ninja Assassin ,2009,6.4
+Marmaduke ,2010,4.2
+Hereafter ,2010,6.5
+Hannibal Rising ,2007,6.2
+The Host ,2013,5.9
+The International ,2009,6.5
+Free State of Jones ,2016,6.7
+Run All Night ,2015,6.6
+Eastern Promises ,2007,7.7
+Your Highness ,2011,5.6
+Dream House ,2011,6
+Fair Game ,2010,6.8
+Gamer ,2009,5.8
+Beautiful Creatures ,2013,6.2
+Zoolander 2 ,2016,4.8
+Drive Angry ,2011,5.5
+Street Fighter: The Legend of Chun-Li ,2009,3.7
+Pirate Radio ,2009,7.4
+Anna Karenina ,2012,6.6
+Chappie ,2015,6.9
+Child 44 ,2015,6.4
+3:10 to Yuma ,2007,7.8
+Taken 3 ,2014,6
+Jonah Hex ,2010,4.7
+The Infiltrator ,2016,7.3
+Taken 2 ,2012,6.3
+Journey to the Center of the Earth ,2008,5.8
+The Bucket List ,2007,7.4
+Prisoners ,2013,8.1
+The Muppets ,2011,7.1
+Resident Evil: Extinction ,2007,6.3
+Blended ,2014,6.5
+Savages ,2012,6.5
+Across the Universe ,2007,7.4
+Revolutionary Road ,2008,7.3
+Babylon A.D. ,2008,5.6
+Aliens in the Attic ,2009,5.4
+Dredd ,2012,7.1
+The Ghost Writer ,2010,7.2
+Miracle at St. Anna ,2008,6
+Bangkok Dangerous ,2008,5.4
+Love in the Time of Cholera ,2007,6.4
+Johnny English Reborn ,2011,6.3
+Foodfight! ,2012,1.7
+Argo ,2012,7.7
+The Bounty Hunter ,2010,5.5
+Victor Frankenstein ,2015,6
+Charlie St. Cloud ,2010,6.5
+The Mechanic ,2011,6.6
+21 Jump Street ,2012,7.2
+The Heat ,2013,6.6
+Here Comes the Boom ,2012,6.5
+Brüno ,2009,5.8
+Red Riding Hood ,2011,5.4
+One for the Money ,2012,5.3
+The Interview ,2014,6.6
+The Warrior's Way ,2010,6.3
+Micmacs ,2009,7.2
+Animal Kingdom: Let's go Ape ,2015,4.9
+Man on a Ledge ,2012,6.6
+The Big Year ,2011,6.2
+American Hustle ,2013,7.3
+The Proposal ,2009,6.7
+Lucy ,2014,6.4
+Fifty Shades of Grey ,2015,4.1
+Lone Survivor ,2013,7.6
+The Conjuring 2 ,2016,7.8
+The Social Network ,2010,7.7
+He's Just Not That Into You ,2009,6.4
+Get Hard ,2015,6
+Julie & Julia ,2009,7
+42 ,2013,7.5
+Dumb and Dumber To ,2014,5.7
+The Intern ,2015,7.2
+Ride Along 2 ,2016,5.9
+Vantage Point ,2008,6.6
+"I Love You, Man ",2009,7.1
+Unbroken ,2014,7.2
+17 Again ,2009,6.4
+The Other Woman ,2014,6
+The Final Destination ,2009,5.2
+Bridge of Spies ,2015,7.6
+Get Him to the Greek ,2010,6.4
+The Lincoln Lawyer ,2011,7.3
+Unknown ,2011,6.9
+Horrible Bosses 2 ,2014,6.3
+Escape from Planet Earth ,2013,5.9
+Predators ,2010,6.4
+The Odd Life of Timothy Green ,2012,6.6
+Made of Honor ,2008,5.8
+Jersey Boys ,2014,6.9
+Aliens vs. Predator: Requiem ,2007,4.7
+Music and Lyrics ,2007,6.5
+Paul ,2011,7
+The Guilt Trip ,2012,5.8
+Scream 4 ,2011,6.2
+Sex Tape ,2014,5.1
+Final Destination 5 ,2011,5.9
+Drillbit Taylor ,2008,5.7
+A Million Ways to Die in the West ,2014,6.1
+Extremely Loud & Incredibly Close ,2011,6.9
+Morning Glory ,2010,6.5
+The Other Boleyn Girl ,2008,6.7
+The Reaping ,2007,5.7
+Colombiana ,2011,6.4
+The Impossible ,2012,7.6
+Fantastic Mr. Fox ,2009,7.8
+Big Miracle ,2012,6.5
+Cirque du Freak: The Vampire's Assistant ,2009,5.9
+Victor Frankenstein ,2015,6
+Soul Men ,2008,6.5
+Pandorum ,2009,6.8
+Sunshine ,2007,7.3
+A Thousand Words ,2012,5.9
+Delgo ,2008,4.4
+The Gunman ,2015,5.8
+Disturbia ,2007,6.9
+The Hunting Party ,2007,6.9
+The Warlords ,2007,7.1
+Snowpiercer ,2013,7
+A Monster in Paris ,2011,6.8
+Baahubali: The Beginning ,2015,8.4
+The Time Traveler's Wife ,2009,7.1
+Because I Said So ,2007,5.6
+Frankenweenie ,2012,7
+Grudge Match ,2013,6.4
+Red Cliff ,2008,7.4
+The Ugly Truth ,2009,6.5
+The Grandmaster ,2013,6.5
+Water for Elephants ,2011,6.9
+Dragon Nest: Warriors' Dawn ,2014,6.4
+Paul Blart: Mall Cop 2 ,2015,4.4
+Precious ,2009,7.3
+Riddick ,2013,6.4
+City of Ember ,2008,6.5
+The Master ,2012,7.1
+Virgin Territory ,2007,4.8
+The Express ,2008,7.3
+The 5th Wave ,2016,5.2
+Creed ,2015,7.7
+The Town ,2010,7.6
+What to Expect When You're Expecting ,2012,5.7
+Burn After Reading ,2008,7
+Nim's Island ,2008,6
+Rush ,2013,8.1
+Cop Out ,2010,5.6
+How to Be Single ,2016,6.1
+Dolphin Tale ,2011,6.9
+Twilight ,2008,5.2
+We're the Millers ,2013,7
+Obitaemyy ostrov ,2009,5.3
+Hot Tub Time Machine ,2010,6.4
+Dolphin Tale 2 ,2014,6.4
+Aloha ,2015,5.4
+The Rite ,2011,6
+Space Chimps ,2008,4.5
+The Hangover ,2009,7.8
+Ip Man 3 ,2015,7.2
+There Be Dragons ,2011,5.9
+The Blind Side ,2009,7.7
+Horrible Bosses ,2011,6.9
+True Grit ,2010,7.7
+Identity Thief ,2013,5.7
+21 ,2008,6.8
+Trainwreck ,2015,6.3
+Secretariat ,2010,7.2
+TMNT ,2007,6.3
+Friends with Benefits ,2011,6.6
+Neighbors 2: Sorority Rising ,2016,6
+Saving Mr. Banks ,2013,7.5
+This Is 40 ,2012,6.2
+Old Dogs ,2009,5.4
+Underworld: Rise of the Lycans ,2009,6.6
+License to Wed ,2007,5.3
+Max Payne ,2008,5.4
+In Time ,2011,6.7
+The Back-up Plan ,2010,5.3
+Something Borrowed ,2011,5.9
+J. Edgar ,2011,6.6
+Mirrors ,2008,6.2
+Untraceable ,2008,6.2
+Alex Cross ,2012,5.1
+Heist ,2015,6.1
+Nanny McPhee Returns ,2010,6.1
+The X Files: I Want to Believe ,2008,5.9
+Concussion ,2015,7.1
+Abduction ,2011,5
+Superhero Movie ,2008,4.5
+Broken City ,2013,6.2
+Premium Rush ,2012,6.5
+Hot Pursuit ,2015,5.1
+Parker ,2013,6.2
+Furry Vengeance ,2010,3.8
+Bait ,2012,5.2
+Lions for Lambs ,2007,6.2
+Walk Hard: The Dewey Cox Story ,2007,6.7
+The Young Victoria ,2009,7.3
+Whiteout ,2009,5.5
+The Tree of Life ,2011,6.7
+Sabotage ,2014,5.7
+Punisher: War Zone ,2008,6
+The Walk ,2015,7.4
+Biutiful ,2010,7.5
+The Lovers ,2015,4.5
+Black Water Transit ,2009,7.2
+The Maze Runner ,2014,6.8
+Unfinished Business ,2015,5.4
+Stolen ,2012,5.5
+Ponyo ,2008,7.7
+The Longest Ride ,2015,7.1
+Playing for Keeps ,2012,5.7
+Mandela: Long Walk to Freedom ,2013,7.1
+Thunder and the House of Magic ,2013,6.3
+The Darkest Hour ,2011,4.9
+Step Up Revolution ,2012,6.5
+Safe ,2012,6.5
+Doomsday ,2008,6
+The Reader ,2008,7.6
+Wanderlust ,2012,5.6
+Bridesmaids ,2011,6.8
+This Is the End ,2013,6.7
+Takers ,2010,6.2
+The Big Wedding ,2013,5.6
+"Big Mommas: Like Father, Like Son ",2011,4.4
+Source Code ,2011,7.5
+The Number 23 ,2007,6.4
+The Young and Prodigious T.S. Spivet ,2013,7.1
+Repo Men ,2010,6.3
+Dragon Wars: D-War ,2007,3.6
+The Incredible Burt Wonderstone ,2013,5.9
+Going the Distance ,2010,6.3
+Criminal ,2016,6.3
+Flight ,2012,7.3
+The Grand Budapest Hotel ,2014,8.1
+Ghostbusters ,2016,5.5
+Vacation ,2015,6.1
+The Vow ,2012,6.8
+Extraordinary Measures ,2010,6.5
+Lee Daniels' The Butler ,2013,7.2
+District 9 ,2009,8
+27 Dresses ,2008,6.1
+Hannah Montana: The Movie ,2009,4.2
+Up in the Air ,2009,7.4
+Warm Bodies ,2013,6.9
+Looper ,2012,7.4
+Hope Springs ,2012,6.3
+Forgetting Sarah Marshall ,2008,7.2
+Baby Mama ,2008,6
+Bride Wars ,2009,5.4
+Midnight in Paris ,2011,7.7
+The Nut Job ,2014,5.8
+P.S. I Love You ,2007,7.1
+Atonement ,2007,7.8
+Letters to Juliet ,2010,6.5
+The Three Stooges ,2012,5.1
+Sicario ,2015,7.6
+Southpaw ,2015,7.5
+Drag Me to Hell ,2009,6.6
+The Age of Adaline ,2015,7.2
+Step Up 3D ,2010,6.2
+30 Days of Night ,2007,6.6
+The Cabin in the Woods ,2012,7
+Meet the Spartans ,2008,2.7
+Hanna ,2011,6.8
+Larry Crowne ,2011,6.1
+Carrie ,2013,5.9
+9 ,2009,7.1
+Side Effects ,2013,7.1
+Winnie the Pooh ,2011,7.3
+Get on Up ,2014,6.9
+Deliver Us from Evil ,2014,6.2
+Sanctum ,2011,5.9
+The Five-Year Engagement ,2012,6.2
+The Next Three Days ,2010,7.4
+Love & Other Drugs ,2010,6.7
+88 Minutes ,2007,5.9
+Splice ,2009,5.8
+Pride and Glory ,2008,6.7
+Fright Night ,2011,6.4
+Dragonball: Evolution ,2009,2.7
+The Last Stand ,2013,6.4
+Hoodwinked Too! Hood vs. Evil ,2011,4.8
+The Imaginarium of Doctor Parnassus ,2009,6.8
+Barney's Version ,2010,7.3
+Runner Runner ,2013,5.6
+Dead Man Down ,2013,6.5
+The Assassination of Jesse James by the Coward Robert Ford ,2007,7.5
+1911 ,2011,6
+Little Nicholas ,2009,7.2
+Wild Card ,2015,5.6
+Machine Gun Preacher ,2011,6.8
+Animals United ,2010,4.9
+The Color of Freedom ,2007,7.1
+United Passions ,2014,2
+Grace of Monaco ,2014,5.7
+A Warrior's Tail ,2015,4.1
+Sausage Party ,2016,7.5
+Pitch Perfect 2 ,2015,6.5
+Frost/Nixon ,2008,7.7
+The Boss ,2016,5.3
+Straight Outta Compton ,2015,7.9
+Florence Foster Jenkins ,2016,7.1
+Role Models ,2008,6.9
+The Big Short ,2015,7.8
+Taking Woodstock ,2009,6.7
+Harlock: Space Pirate ,2013,6.5
+Last Vegas ,2013,6.6
+Safe Haven ,2013,6.7
+No Reservations ,2007,6.3
+Kick-Ass ,2010,7.7
+30 Minutes or Less ,2011,6.1
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day ",2014,6.2
+3 Days to Kill ,2014,6.2
+We Own the Night ,2007,6.9
+The Spy Next Door ,2010,5.4
+Our Brand Is Crisis ,2015,6.1
+Pride and Prejudice and Zombies ,2016,5.8
+How to Lose Friends & Alienate People ,2008,6.5
+Kick-Ass 2 ,2013,6.6
+Brick Mansions ,2014,5.7
+Knocked Up ,2007,7
+My Sister's Keeper ,2009,7.4
+"Welcome Home, Roscoe Jenkins ",2008,5.3
+Rendition ,2007,6.8
+The Jungle Book ,2016,7.8
+The Sisterhood of the Traveling Pants 2 ,2008,6.2
+Joyful Noise ,2012,5.7
+Anonymous ,2011,6.9
+The Duchess ,2008,6.9
+Case 39 ,2009,6.2
+Martian Child ,2007,6.8
+Spy Kids: All the Time in the World in 4D ,2011,3.6
+Money Monster ,2016,6.7
+What Just Happened ,2008,5.7
+Paul Blart: Mall Cop ,2009,5.2
+A Walk Among the Tombstones ,2014,6.5
+Pineapple Express ,2008,7
+Legion ,2010,5.2
+Pain & Gain ,2013,6.5
+Brothers ,2009,7.1
+New Year's Eve ,2011,5.7
+The Raven ,2012,6.4
+Accidental Love ,2015,4
+Self/less ,2015,6.5
+Gran Torino ,2008,8.2
+W. ,2008,6.4
+Taken ,2008,7.9
+The Best of Me ,2014,6.7
+The Help ,2011,8.1
+The Fifth Estate ,2013,6.2
+Viy ,2014,5.4
+The Face of an Angel ,2014,4.7
+Cloverfield ,2008,7
+No Country for Old Men ,2007,8.1
+Ride Along ,2014,6.2
+Parental Guidance ,2012,6.1
+No Strings Attached ,2011,6.2
+The Lucky One ,2012,6.5
+Bridge to Terabithia ,2007,7.2
+A Madea Christmas ,2013,4.7
+The Grey ,2011,6.8
+Contraband ,2012,6.5
+There Will Be Blood ,2007,8.1
+The House Bunny ,2008,5.5
+Million Dollar Arm ,2014,7
+The Giver ,2014,6.5
+Good Luck Chuck ,2007,5.6
+Mr. Bean's Holiday ,2007,6.3
+Blood Ties ,2013,6.5
+August Rush ,2007,7.5
+The Sitter ,2011,5.7
+Dance Flick ,2009,3.5
+The Gambler ,2014,6
+August: Osage County ,2013,7.3
+Eddie the Eagle ,2016,7.5
+Dear John ,2010,6.3
+The Losers ,2010,6.4
+Don't Be Afraid of the Dark ,2010,5.6
+War ,2007,6.3
+The Box ,2009,5.6
+The Ruins ,2008,5.9
+My Soul to Take ,2010,4.8
+Legend ,2015,7
+Hot Rod ,2007,6.7
+Shark Night 3D ,2011,4
+Draft Day ,2014,6.8
+The Conspirator ,2010,7
+The 33 ,2015,6.9
+A Perfect Plan ,2012,6.3
+Warrior ,2011,8.2
+Stop-Loss ,2008,6.5
+The Possession ,2012,5.9
+Straw Dogs ,2011,5.8
+The Road ,2009,7.3
+Blindness ,2008,6.6
+Carnage ,2011,7.2
+Cirque du Soleil: Worlds Away ,2012,6.8
+Me and Orson Welles ,2008,6.8
+The Best Offer ,2013,7.8
+Bad Lieutenant: Port of Call New Orleans ,2009,6.7
+A Turtle's Tale: Sammy's Adventures ,2010,6.1
+Little White Lies ,2010,7.1
+Love Ranch ,2010,5.7
+The True Story of Puss'N Boots ,2009,2.9
+Space Dogs ,2010,5.2
+The Counselor ,2013,5.3
+Ironclad ,2011,6.2
+Kung Fu Killer ,2014,6.5
+Red Sky ,2014,4.1
+On the Road ,2012,6.1
+Point Break ,2015,5.3
+Jane Got a Gun ,2016,5.8
+Think Like a Man Too ,2014,5.7
+Zack and Miri Make a Porno ,2008,6.6
+The Men Who Stare at Goats ,2009,6.2
+I Don't Know How She Does It ,2011,4.9
+Piranha 3D ,2010,5.5
+Faster ,2010,6.5
+Zombieland ,2009,7.7
+The Ides of March ,2011,7.1
+Her ,2013,8
+Eddie the Eagle ,2016,7.5
+The Adventurer: The Curse of the Midas Box ,2013,5.4
+Haywire ,2011,5.8
+The Longshots ,2008,5.1
+In the Valley of Elah ,2007,7.2
+Coco Before Chanel ,2009,6.7
+Forsaken ,2015,6.3
+Chéri ,2009,6.2
+Bodyguards and Assassins ,2009,6.9
+1408 ,2007,6.8
+The Water Diviner ,2014,7.1
+The Game Plan ,2007,6.2
+The Hundred-Foot Journey ,2014,7.3
+Son of God ,2014,5.6
+The Informant! ,2009,6.5
+Delivery Man ,2013,6.4
+Victor Frankenstein ,2015,6
+Our Kind of Traitor ,2016,6.4
+Diary of a Wimpy Kid: Dog Days ,2012,6.4
+"Hail, Caesar! ",2016,6.4
+Homefront ,2013,6.5
+The Transporter Refueled ,2015,5.1
+Hit and Run ,2012,6.1
+Mad Money ,2008,5.8
+Before I Go to Sleep ,2014,6.3
+Stone ,2010,5.4
+Molière ,2007,7.3
+Out of the Furnace ,2013,6.8
+Michael Clayton ,2007,7.3
+Underdogs ,2013,6.7
+To Rome with Love ,2012,6.3
+Death at a Funeral ,2007,7.4
+Silver Linings Playbook ,2012,7.8
+Freedom Writers ,2007,7.5
+For Colored Girls ,2010,6
+Never Back Down ,2008,6.6
+Away We Go ,2009,7.1
+Swing Vote ,2008,6.1
+Tinker Tailor Soldier Spy ,2011,7.1
+The Beaver ,2011,6.7
+Jackass 3D ,2010,7.1
+Beverly Hills Chihuahua ,2008,3.7
+The Conjuring ,2013,7.5
+Tammy ,2014,4.9
+Disturbia ,2007,6.9
+The Descendants ,2011,7.3
+The Last Song ,2010,5.8
+12 Years a Slave ,2013,8.1
+Why Did I Get Married Too? ,2010,4.4
+Me Before You ,2016,7.6
+Madea's Witness Protection ,2012,4.8
+Bad Moms ,2016,6.7
+Selma ,2014,7.5
+Premonition ,2007,5.9
+Orphan ,2009,7
+Max ,2015,6.8
+Epic Movie ,2007,2.3
+Spotlight ,2015,8.1
+Lakeview Terrace ,2008,6.1
+The American ,2010,6.3
+Vampires Suck ,2010,3.5
+This Is Where I Leave You ,2014,6.6
+Doubt ,2008,7.5
+Texas Chainsaw 3D ,2013,4.8
+Scary Movie 5 ,2013,3.5
+Milk ,2008,7.6
+Risen ,2016,6.3
+A Very Harold & Kumar 3D Christmas ,2011,6.3
+The Stepfather ,2009,5.6
+The Debt ,2010,6.9
+One Missed Call ,2008,3.9
+The Bank Job ,2008,7.3
+You Again ,2010,5.8
+Street Kings ,2008,6.8
+The World's End ,2013,7
+Nancy Drew ,2007,5.9
+Daybreakers ,2009,6.5
+She's Out of My League ,2010,6.4
+Monte Carlo ,2011,5.8
+Alpha and Omega ,2010,5.3
+Shorts ,2009,4.9
+Nerve ,2016,7.1
+Appaloosa ,2008,6.8
+My Best Friend's Girl ,2008,5.9
+Endless Love ,2014,6.3
+Georgia Rule ,2007,5.9
+Reign Over Me ,2007,7.5
+Into the Wild ,2007,8.2
+Silent Hill: Revelation 3D ,2012,5
+The Kite Runner ,2007,7.6
+Twilight ,2008,5.2
+Capitalism: A Love Story ,2009,7.4
+Secret in Their Eyes ,2015,6.2
+Disaster Movie ,2008,1.9
+Armored ,2009,5.7
+What's Your Number? ,2011,6
+Lockout ,2012,6.1
+Crank: High Voltage ,2009,6.2
+Ghost Town ,2008,6.7
+12 Rounds ,2009,5.6
+Let Me In ,2010,7.2
+Be Kind Rewind ,2008,6.4
+Triple 9 ,2016,6.3
+Burnt ,2015,6.6
+Death at a Funeral ,2007,7.4
+Death Sentence ,2007,6.8
+Everybody's Fine ,2009,7.2
+Code Name: The Cleaner ,2007,4.5
+Inherent Vice ,2014,6.7
+Battle of the Year ,2013,5
+An American Carol ,2008,4.3
+Machete Kills ,2013,5.6
+Strange Wilderness ,2008,5.3
+Little Boy ,2015,7.4
+A Dangerous Method ,2011,6.5
+Chasing Mavericks ,2012,7.2
+Bandslam ,2009,6.4
+A Most Violent Year ,2014,7
+Passchendaele ,2008,6.5
+Flash of Genius ,2008,7
+I'm Not There. ,2007,7
+The Cold Light of Day ,2012,4.9
+The Brothers Bloom ,2008,6.9
+"Synecdoche, New York ",2008,7.5
+Courage ,2015,7
+The Children of Huang Shi ,2008,7.1
+The Oogieloves in the Big Balloon Adventure ,2012,6.7
+By the Sea ,2015,5.3
+All Good Things ,2010,6.3
+CJ7 ,2008,6.5
+Dylan Dog: Dead of Night ,2010,5.1
+The Tempest ,2010,5.4
+Regression ,2015,5.7
+The Touch ,2007,5.2
+Three Kingdoms: Resurrection of the Dragon ,2008,6.2
+Shattered ,2007,6.7
+Zambezia ,2012,5.8
+Ramanujan ,2014,7
+Dwegons and Leprechauns ,2014,4.8
+Hands of Stone ,2016,7.2
+Survivor ,2015,5.6
+The Frozen Ground ,2013,6.4
+The Baader Meinhof Complex ,2008,7.4
+Bad Teacher ,2011,5.7
+I Can Do Bad All by Myself ,2009,4.1
+Fight Valley ,2016,5
+The Switch ,2010,6.1
+The Devil's Double ,2011,7.1
+The Crazies ,2010,6.5
+Firestorm ,2013,6.2
+The Book Thief ,2013,7.6
+Sex Drive ,2008,6.5
+Leap Year ,2010,6.4
+Take Me Home Tonight ,2011,6.3
+Won't Back Down ,2012,6.4
+Indignation ,2016,7.8
+Out of Inferno ,2013,5.7
+The Invention of Lying ,2009,6.4
+Neighbors ,2014,6.4
+Left Behind ,2014,3.1
+My Big Fat Greek Wedding 2 ,2016,6.1
+Diary of a Wimpy Kid: Rodrick Rules ,2011,6.6
+Prom Night ,2008,3.9
+Birdman or (The Unexpected Virtue of Ignorance) ,2014,7.8
+Blue Jasmine ,2013,7.3
+Soul Surfer ,2011,7.1
+Observe and Report ,2009,5.8
+Love Happens ,2009,5.6
+Fame ,2009,5
+127 Hours ,2010,7.6
+Love the Coopers ,2015,5.7
+Steve Jobs ,2015,7.2
+"I Love You, Beth Cooper ",2009,5.3
+Youth in Revolt ,2009,6.5
+Getaway ,2013,4.4
+And So It Goes ,2014,5.7
+The Last Station ,2009,7
+Labor Day ,2013,6.9
+Mongol: The Rise of Genghis Khan ,2007,7.3
+RocknRolla ,2008,7.3
+Mao's Last Dancer ,2009,7.4
+Midnight Special ,2016,6.7
+The Railway Man ,2013,7.1
+The White Ribbon ,2009,7.8
+Restoration ,2016,4
+Metallica Through the Never ,2013,7.2
+The Informers ,2008,5.1
+I Come with the Rain ,2009,5.5
+I Am Wrath ,2016,5.2
+Forsaken ,2015,6.3
+Red Lights ,2012,6.2
+Superbad ,2007,7.6
+Madea Goes to Jail ,2009,4.1
+Wolves ,2014,5.3
+Step Up 2: The Streets ,2008,6.2
+Hitman ,2007,6.3
+Black Nativity ,2013,4.4
+The Prince ,2014,4.6
+Let's Be Cops ,2014,6.5
+The Best Man Holiday ,2013,6.7
+Saw 3D: The Final Chapter ,2010,5.6
+TRON: Legacy ,2010,6.8
+Beastly ,2011,5.6
+"McFarland, USA ",2015,7.4
+Lottery Ticket ,2010,4.9
+Pitch Perfect ,2012,7.2
+Brooklyn's Finest ,2009,6.7
+Evil Dead ,2013,6.5
+My Life in Ruins ,2009,5.9
+How She Move ,2007,3.3
+Escobar: Paradise Lost ,2014,6.6
+Dragon Hunters ,2008,6.6
+The Apparition ,2012,4.1
+Becoming Jane ,2007,7.1
+Sydney White ,2007,6.3
+The Artist ,2011,8
+The Unborn ,2009,4.8
+Moonrise Kingdom ,2012,7.8
+The Young Messiah ,2016,5.4
+The Roommate ,2011,4.8
+Hot Fuzz ,2007,7.9
+The Women ,2008,4.9
+Vicky Cristina Barcelona ,2008,7.2
+Arn: The Knight Templar ,2007,6.6
+Bad Moms ,2016,6.7
+Jennifer's Body ,2009,5.1
+Left Behind ,2014,3.1
+Remember Me ,2010,7.2
+Things We Lost in the Fire ,2007,7.2
+The Immigrant ,2013,6.6
+Trance ,2013,7
+Welcome to the Sticks ,2008,7.1
+Good ,2008,6.2
+Enter the Void ,2009,7.3
+Vamps ,2012,5.1
+Hachi: A Dog's Tale ,2009,8.1
+Zulu ,2013,6.7
+The Homesman ,2014,6.6
+The King's Speech ,2010,8
+The Yellow Handkerchief ,2008,6.8
+Tidal Wave ,2009,5.7
+Ben-Hur ,2016,6.1
+The Imitation Game ,2014,8.1
+Diary of a Wimpy Kid ,2010,6.2
+Mama ,2013,6.2
+Bad Grandpa ,2013,6.6
+Why Did I Get Married? ,2007,5.6
+The Woman in Black ,2012,6.4
+Snitch ,2013,6.5
+Krampus ,2015,6.2
+End of Watch ,2012,7.7
+Aloha ,2015,5.4
+The Theory of Everything ,2014,7.7
+Halloween II ,2009,4.9
+Wild ,2014,7.1
+The Last House on the Left ,2009,6.6
+Clash of the Titans ,2010,5.8
+The Great Debaters ,2007,7.6
+Drive ,2011,7.8
+28 Weeks Later ,2007,7
+When the Game Stands Tall ,2014,6.7
+All About Steve ,2009,4.8
+Ramona and Beezus ,2010,6.7
+The Hills Have Eyes II ,2007,5.1
+Keanu ,2016,6.4
+Country Strong ,2010,6.3
+The Place Beyond the Pines ,2012,7.3
+The November Man ,2014,6.3
+The Hurt Locker ,2008,7.6
+Killing Them Softly ,2012,6.2
+A Most Wanted Man ,2014,6.8
+The Pirates Who Don't Do Anything: A VeggieTales Movie ,2008,5.7
+U2 3D ,2007,8.4
+One Day ,2011,7
+Whip It ,2009,6.9
+The Man with the Iron Fists ,2012,5.4
+A Mighty Heart ,2007,6.7
+In Bruges ,2008,8
+Peeples ,2013,5.3
+The Rocker ,2008,6.2
+Post Grad ,2009,5.3
+Promised Land ,2012,6.6
+Whatever Works ,2009,7.2
+Blood and Chocolate ,2007,5.5
+You Will Meet a Tall Dark Stranger ,2010,6.3
+Never Let Me Go ,2010,7.2
+Transsiberian ,2008,6.7
+Funny Games ,2007,6.5
+Listening ,2014,5.6
+The Assassin ,2015,6.4
+Ong-bak 2 ,2008,6.2
+Centurion ,2010,6.4
+The Midnight Meat Train ,2008,6.1
+Winnie Mandela ,2011,6
+The Son of No One ,2011,5.1
+The Good Night ,2007,5.9
+Bathory: Countess of Blood ,2008,6
+Khumba ,2013,5.8
+Automata ,2014,6.1
+Chiamatemi Francesco - Il Papa della gente ,2015,5.7
+Shinjuku Incident ,2009,7.1
+Magic Mike XXL ,2015,5.7
+Sarah's Key ,2010,7.5
+Freedom ,2014,6.2
+Slumdog Millionaire ,2008,8
+Broken Horses ,2015,5.7
+My Bloody Valentine ,2009,5.5
+The Possession ,2012,5.9
+Stomp the Yard ,2007,5.2
+Good Deeds ,2012,5.4
+The Iron Lady ,2011,6.4
+A Perfect Getaway ,2009,6.5
+Our Family Wedding ,2010,4.9
+I Think I Love My Wife ,2007,5.5
+Fun Size ,2012,5.4
+The Diving Bell and the Butterfly ,2007,8
+Easy Virtue ,2008,6.7
+Mr. Turner ,2014,6.8
+Wild Grass ,2009,6.3
+Reign of Assassins ,2010,6.9
+The Lucky Ones ,2008,7
+Margaret ,2011,6.5
+Stan Helsing ,2009,3.6
+Flipped ,2010,7.7
+Teenage Mutant Ninja Turtles ,2014,5.9
+Hot Tub Time Machine 2 ,2015,5.1
+Seven Psychopaths ,2012,7.2
+Under the Skin ,2013,6.3
+The Last Godfather ,2010,3.6
+Justin Bieber: Never Say Never ,2011,1.6
+Black Swan ,2010,8
+RoboCop ,2014,6.2
+Miracles from Heaven ,2016,6.8
+St. Vincent ,2014,7.3
+About Last Night ,2014,6.1
+The Shallows ,2016,6.8
+This Christmas ,2007,6.1
+No Good Deed ,2014,5.6
+The Mist ,2007,7.2
+Ex Machina ,2015,7.7
+Earth to Echo ,2014,5.8
+Room ,2015,8.3
+21 & Over ,2013,5.9
+Resurrecting the Champ ,2007,6.8
+Admission ,2013,5.7
+Chloe ,2009,6.3
+Brothers ,2009,7.1
+The Perks of Being a Wallflower ,2012,8
+The Vatican Tapes ,2015,4.5
+Attack the Block ,2011,6.6
+In the Land of Blood and Honey ,2011,4.3
+The Call ,2013,6.7
+Operation Chromite ,2016,6.8
+I Love You Phillip Morris ,2009,6.6
+Womb ,2010,6.4
+The Killer Inside Me ,2010,6.1
+Sorority Row ,2009,5.1
+Lars and the Real Girl ,2007,7.4
+The Boy in the Striped Pajamas ,2008,7.8
+Solitary Man ,2009,6.4
+Machete ,2010,6.7
+Casino Jack ,2010,6.2
+The Perfect Game ,2009,7
+Ernest & Celestine ,2012,7.9
+Think Like a Man ,2012,6.6
+Act of Valor ,2012,6.5
+Harold & Kumar Escape from Guantanamo Bay ,2008,6.6
+Chronicle ,2012,7.1
+Project X ,2012,6.7
+Quarantine ,2008,6
+The Eye ,2008,5.4
+Katy Perry: Part of Me ,2012,5.9
+The Fault in Our Stars ,2014,7.8
+Top Five ,2014,6.5
+Philomena ,2013,7.6
+Paper Towns ,2015,6.4
+Nebraska ,2013,7.8
+Young Adult ,2011,6.3
+Just Wright ,2010,5.8
+Rachel Getting Married ,2008,6.7
+About Time ,2013,7.8
+Arbitrage ,2012,6.6
+Project Almanac ,2015,6.4
+Cadillac Records ,2008,7
+Two Lovers ,2008,7.1
+Charlie Bartlett ,2007,7
+The Great Beauty ,2013,7.7
+Stoker ,2013,6.8
+Married Life ,2007,6.3
+Ondine ,2009,6.8
+The Life Before Her Eyes ,2007,6.4
+Darling Companion ,2012,5.1
+Trade ,2007,7.5
+"A Woman, a Gun and a Noodle Shop ",2009,5.7
+City of Life and Death ,2009,7.7
+Home ,2015,6.7
+Legend of Kung Fu Rabbit ,2011,3.2
+Space Battleship Yamato ,2010,6.1
+5 Days of War ,2011,5.6
+Triangle ,2009,6.9
+10 Days in a Madhouse ,2015,7.5
+Heaven Is for Real ,2014,5.8
+Dancin' It's On ,2015,2.8
+The Cry of the Owl ,2009,6
+A Tale of Three Cities ,2015,6.2
+Dirty Grandpa ,2016,6
+Trash ,2014,7.2
+High School Musical 3: Senior Year ,2008,4.5
+The Fighter ,2010,7.9
+If I Stay ,2014,6.8
+Drive Hard ,2014,4.3
+St. Trinian's ,2007,5.8
+Saw VI ,2009,6
+The Secret Life of Bees ,2008,7.3
+Brooklyn ,2015,7.5
+Quartet ,2012,6.8
+Woman in Gold ,2015,7.3
+Inside Llewyn Davis ,2013,7.4
+Brighton Rock ,2010,5.7
+Saw V ,2008,5.8
+LOL ,2012,4.3
+The Last Days on Mars ,2013,5.5
+In the Land of Women ,2007,6.5
+Housefull ,2010,5.3
+September Dawn ,2007,5.8
+For Greater Glory: The True Story of Cristiada ,2012,6.6
+La Famille Bélier ,2014,7.4
+Misconduct ,2016,5.3
+The Purge: Election Year ,2016,6.1
+Precious ,2009,7.3
+Saw IV ,2007,5.9
+The Best Exotic Marigold Hotel ,2011,7.3
+The Boy ,2016,6
+Devil ,2010,6.3
+Insidious: Chapter 3 ,2015,6.1
+Nick and Norah's Infinite Playlist ,2008,6.7
+Pete's Dragon ,2016,7.3
+Sinister 2 ,2015,5.2
+Sparkle ,2012,5.7
+The Fourth Kind ,2009,5.9
+Skyline ,2010,4.4
+The Second Best Exotic Marigold Hotel ,2015,6.6
+Kit Kittredge: An American Girl ,2008,6.7
+Mud ,2012,7.4
+Reno 911!: Miami ,2007,5.9
+One Direction: This Is Us ,2013,4.1
+"The Goods: Live Hard, Sell Hard ",2009,5.8
+My Week with Marilyn ,2011,7
+The Gift ,2015,7.1
+Big Eyes ,2014,7
+MacGruber ,2010,5.5
+Movie 43 ,2013,4.3
+The Tourist ,2010,6
+Over Her Dead Body ,2008,5.2
+Seeking a Friend for the End of the World ,2012,6.7
+Cedar Rapids ,2011,6.3
+The Collection ,2012,6.1
+Bad Words ,2013,6.7
+"Run, Fatboy, Run ",2007,6.6
+Black or White ,2014,6.6
+Danny Collins ,2015,7.1
+"Jeff, Who Lives at Home ",2011,6.5
+I Am Love ,2009,7
+Atlas Shrugged II: The Strike ,2012,5.5
+Bucky Larson: Born to Be a Star ,2011,3.3
+The Forest ,2016,4.8
+While We're Young ,2014,6.3
+A Better Life ,2011,7.2
+The Iceman ,2012,6.9
+Killer Joe ,2011,6.7
+The Joneses ,2009,6.5
+The Brothers Solomon ,2007,5.3
+My Blueberry Nights ,2007,6.7
+"War, Inc. ",2008,5.7
+Rosewater ,2014,6.6
+Coriolanus ,2011,6.2
+World's Greatest Dad ,2009,6.9
+Welcome to the Rileys ,2010,7
+Blood Done Sign My Name ,2010,6.7
+"Cinco de Mayo, La Batalla ",2013,6.2
+Elsa & Fred ,2014,6.5
+The Open Road ,2009,5.5
+The Good Guy ,2009,5.9
+Motherhood ,2009,4.7
+Free Style ,2008,4.2
+Strangerland ,2015,5.2
+The Janky Promoters ,2009,5.2
+Blonde Ambition ,2007,3.9
+The Oxford Murders ,2008,6.1
+The Reef ,2010,5.8
+White Noise 2: The Light ,2007,5.7
+You Got Served: Beat the World ,2011,4.5
+Fifty Dead Men Walking ,2008,6.9
+Jungle Shuffle ,2014,4.8
+Adam Resurrected ,2008,6.3
+Of Horses and Men ,2013,6.9
+It's a Wonderful Afterlife ,2010,5.4
+The Devil's Tomb ,2009,3.8
+Partition ,2007,7
+Good Intentions ,2010,5.2
+"The Good, the Bad, the Weird ",2008,7.3
+Nurse 3D ,2013,4.6
+Gunless ,2010,6.5
+Adventureland ,2009,6.8
+American Heist ,2014,5.2
+Plastic ,2014,6
+Amour ,2012,7.9
+Re-Kill ,2015,5.1
+Gentlemen Broncos ,2009,6.1
+Into the Grizzly Maze ,2015,5.3
+Kites ,2010,6
+Melancholia ,2011,7.1
+Red Dog ,2011,7.5
+Jab Tak Hai Jaan ,2012,6.9
+The Runaways ,2010,6.6
+Detention ,2011,5.8
+Loose Cannons ,2010,7.3
+Sicko ,2007,8
+The Purge: Anarchy ,2014,6.5
+The Savages ,2007,7.2
+Gracie ,2007,6.2
+Hamlet 2 ,2008,6.4
+The Wailing ,2016,7.7
+Glee: The 3D Concert Movie ,2011,5.4
+Barbecue ,2014,6.1
+Princess Kaiulani ,2009,6.2
+Heist ,2015,6.1
+Flame and Citron ,2008,7.3
+Red Riding: In the Year of Our Lord 1974 ,2009,7.1
+The Girl on the Train ,2009,6
+Veronika Decides to Die ,2009,6.5
+"Ultramarines: A Warhammer 40,000 Movie ",2010,5.7
+Beneath Hill 60 ,2010,7.1
+Polisse ,2011,7.3
+Awake ,2007,6.5
+Skin Trade ,2014,5.7
+Crazy Heart ,2009,7.3
+Baggage Claim ,2013,5
+The DUFF ,2015,6.5
+The Haunting in Connecticut 2: Ghosts of Georgia ,2013,5.3
+Bright Star ,2009,7
+My Name Is Khan ,2010,8
+All Is Lost ,2013,6.9
+Namastey London ,2007,7.3
+Yeh Jawaani Hai Deewani ,2013,6.9
+Repo! The Genetic Opera ,2008,6.7
+Nightcrawler ,2014,7.9
+50/50 ,2011,7.7
+Shutter ,2008,5.2
+That Awkward Moment ,2014,6.1
+Kicks ,2016,7.8
+New in Town ,2009,5.6
+The Boondock Saints II: All Saints Day ,2009,6.3
+The City of Your Final Destination ,2009,6.4
+Enough Said ,2013,7.1
+Easy A ,2010,7.1
+Prom ,2011,5.4
+Anomalisa ,2015,7.3
+Another Year ,2010,7.3
+It's Kind of a Funny Story ,2010,7.2
+Made in Dagenham ,2010,7.2
+When Did You Last See Your Father? ,2007,6.9
+The Secret of Kells ,2009,7.7
+Begin Again ,2013,7.4
+Brooklyn Rules ,2007,6.4
+Restless ,2012,7.2
+Wild Target ,2010,6.9
+Pathology ,2008,6
+Aloft ,2014,5.3
+The Death and Life of Bobby Z ,2007,5.9
+Swelter ,2014,4.6
+My Lucky Star ,2013,5.1
+Mr. Church ,2016,8
+Green Street 3: Never Back Down ,2013,5.4
+Code of Honor ,2016,4.2
+Far from Men ,2014,7.3
+Hostel: Part II ,2007,5.4
+An Education ,2009,7.3
+Witless Protection ,2008,3.1
+Extract ,2009,6.2
+Outside Bet ,2012,4.8
+Albert Nobbs ,2011,6.7
+Black November ,2012,5.6
+Ta Ra Rum Pum ,2007,5.4
+Persepolis ,2007,8
+The Hole ,2009,5.7
+The Wave ,2008,7.6
+The Neon Demon ,2016,7
+Harry Brown ,2009,7.2
+Spider-Man 3 ,2007,6.2
+Juno ,2007,7.5
+Pound of Flesh ,2015,5.1
+500 Days of Summer ,2009,7.7
+Magic Mike ,2012,6.1
+"Definitely, Maybe ",2008,7.2
+Jumping the Broom ,2011,5.7
+The Great Gatsby ,2013,7.3
+Devil's Due ,2014,4
+Dope ,2015,7.3
+Skyfall ,2012,7.8
+A Serious Man ,2009,7
+Get Low ,2009,7.1
+Beyond the Lights ,2014,6.9
+A Single Man ,2009,7.6
+Who's Your Caddy? ,2007,2
+Redbelt ,2008,6.8
+Cyrus ,2010,6.3
+We Need to Talk About Kevin ,2011,7.5
+The Christmas Candle ,2013,5.8
+The Mighty Macs ,2009,6.5
+Mother and Child ,2009,7.2
+Somewhere ,2010,6.3
+I Hope They Serve Beer in Hell ,2009,5.3
+Hesher ,2010,7.1
+Dom Hemingway ,2013,6.2
+Freeheld ,2015,6.5
+The Extra Man ,2010,5.9
+Hard to Be a God ,2013,6.7
+Ca$h ,2010,6
+Z Storm ,2014,5.3
+Twixt ,2011,4.8
+Snow Queen ,2012,5.3
+Alpha and Omega 4: The Legend of the Saw Toothed Cave ,2014,6
+Stargate: The Ark of Truth ,2008,7.4
+High School Musical 2 ,2007,4.8
+Two Lovers and a Bear ,2016,7.2
+Criminal Activities ,2015,5.8
+House at the End of the Street ,2012,5.6
+Incendies ,2010,8.2
+Perrier's Bounty ,2009,6.4
+Elite Squad ,2007,8.1
+Annabelle ,2014,5.4
+Bran Nue Dae ,2009,6.3
+Shame ,2011,7.3
+The East ,2013,6.9
+The Messenger ,2009,7.2
+Tracker ,2010,6.5
+Control ,2007,7.7
+The Damned United ,2009,7.6
+The Wrestler ,2008,7.9
+Daddy Day Camp ,2007,2.9
+Bernie ,2011,6.8
+Dolphins and Whales 3D: Tribes of the Ocean ,2008,6.5
+The Words ,2012,7.1
+Casa de mi Padre ,2012,5.5
+City Island ,2009,7.4
+The Guard ,2011,7.3
+College ,2008,4.6
+Miss March ,2009,5.1
+Wish I Was Here ,2014,6.7
+Goddess of Love ,2015,5.4
+The Wackness ,2008,7
+The 5th Quarter ,2010,5.7
+The Greatest ,2009,6.7
+Snow Flower and the Secret Fan ,2011,6.1
+"Surfer, Dude ",2008,4.7
+Don McKay ,2009,5.9
+Deadfall ,2012,6.3
+A Shine of Rainbows ,2009,7.2
+The Hit List ,2011,5.4
+Song One ,2014,5.8
+Winter in Wartime ,2008,7.1
+Freaky Deaky ,2012,6.5
+Trade of Innocents ,2012,5.4
+Khiladi 786 ,2012,4.3
+[Rec] 2 ,2009,6.6
+Standing Ovation ,2010,3.4
+Don Jon ,2013,6.6
+Le Havre ,2011,7.2
+R100 ,2013,6.1
+Animals ,2014,6.2
+Salvation Boulevard ,2011,5.3
+The Ten ,2007,5
+Headhunters ,2011,7.6
+Grabbers ,2012,6.3
+Miss Julie ,2014,5.6
+Dum Maaro Dum ,2011,6.2
+Insidious: Chapter 2 ,2013,6.6
+10 Cloverfield Lane ,2016,7.3
+Lights Out ,2016,6.9
+Paranormal Activity 3 ,2011,5.8
+Ouija ,2014,4.4
+The Gift ,2015,7.1
+Instructions Not Included ,2013,7.6
+Paranormal Activity 4 ,2012,4.6
+Paranormal Activity: The Marked Ones ,2014,5
+Dallas Buyers Club ,2013,8
+The Lazarus Effect ,2015,5.2
+Oculus ,2013,6.5
+The Way Way Back ,2013,7.4
+Our Idiot Brother ,2011,6.4
+Race ,2016,7.1
+"As Above, So Below ",2014,6.1
+Addicted ,2014,5.2
+Still Alice ,2014,7.5
+Spring Breakers ,2012,5.3
+The Haunting of Molly Hartley ,2008,3.8
+Apollo 18 ,2011,5.2
+Sunshine Cleaning ,2008,6.9
+No Escape ,2015,6.8
+Fifty Shades of Black ,2016,3.5
+Not Easily Broken ,2009,6.1
+The Perfect Match ,2016,4.5
+Moon ,2009,7.9
+Sea Rex 3D: Journey to a Prehistoric World ,2010,6.9
+Of Gods and Men ,2010,7.2
+Bottle Shock ,2008,6.8
+90 Minutes in Heaven ,2015,4.6
+Everything Must Go ,2010,6.4
+Kill the Messenger ,2014,7
+Rabbit Hole ,2010,7
+Green Room ,2015,7.1
+Atlas Shrugged: Who Is John Galt? ,2014,4.4
+"Gandhi, My Father ",2007,7.4
+Standard Operating Procedure ,2008,7.5
+Tucker and Dale vs Evil ,2010,7.6
+"Lovely, Still ",2008,7.3
+The Visit ,2015,6.2
+Redacted ,2007,6.2
+Area 51 ,2015,4.2
+Sleep Tight ,2011,7.2
+The Cottage ,2008,6.2
+Dead Like Me: Life After Death ,2009,6.1
+Flying By ,2009,4.5
+Rudderless ,2014,7.5
+Henry & Me ,2014,6.7
+Christmas Eve ,2015,5.1
+We Have Your Husband ,2011,5.5
+Dying of the Light ,2014,4.4
+Born of War ,2014,4.4
+Should've Been Romeo ,2012,6.7
+Running Forever ,2015,8.6
+Yoga Hosers ,2016,4.8
+Navy Seals vs. Zombies ,2015,3.4
+Soul Kitchen ,2009,7.3
+The Awakening ,2011,6.5
+Take Shelter ,2011,7.4
+Let's Kill Ward's Wife ,2014,5.4
+Only God Forgives ,2013,5.7
+Without Men ,2011,3.2
+Barfi ,2013,7.1
+All Hat ,2007,5.3
+The Names of Love ,2010,7.2
+Treading Water ,2013,6.2
+Savage Grace ,2007,5.9
+Moms' Night Out ,2014,5.4
+Saving Private Perez ,2011,6
+Life During Wartime ,2009,6.5
+Mozart's Sister ,2010,6.4
+Blackthorn ,2011,6.6
+After.Life ,2009,5.9
+Fugly ,2014,4.7
+R.L. Stine's Monsterville: The Cabinet of Souls ,2015,5.9
+Airlift ,2016,8.5
+Falcon Rising ,2014,5.8
+The Sweeney ,2012,6.1
+Easy Money ,2010,6.7
+Paa ,2009,7.2
+Cargo ,2009,6.2
+Pan ,2015,5.8
+Survival of the Dead ,2009,5
+Exodus: Gods and Kings ,2014,6.1
+Maggie ,2015,5.6
+Hansel & Gretel Get Baked ,2013,4.3
+The Boy Next Door ,2015,4.6
+The Kids Are All Right ,2010,7.1
+The Last Exorcism Part II ,2013,4
+Boyhood ,2014,8
+My Soul to Take ,2010,4.8
+The Orphanage ,2007,7.5
+A Haunted House 2 ,2014,4.7
+You Kill Me ,2007,6.5
+Red State ,2011,6.2
+Samsara ,2011,8.5
+The Art of Getting By ,2011,6.6
+Zipper ,2015,5.7
+Holy Motors ,2012,7.1
+Joe ,2013,6.9
+"Buen Día, Ramón ",2013,7.7
+Trust ,2010,7
+Adore ,2013,6.2
+Stake Land ,2010,6.5
+Futuro Beach ,2014,6.1
+Another Happy Day ,2011,6
+A Lonely Place to Die ,2011,6.3
+The Geographer Drank His Globe Away ,2013,7.5
+Inescapable ,2012,5.2
+Purple Violets ,2007,6.6
+The Veil ,2016,4.7
+The Loved Ones ,2009,6.7
+No Vacancy ,2012,4.2
+How to Fall in Love ,2012,6.3
+The Perfect Wave ,2014,4.7
+Ben-Hur ,2016,6
+Desert Dancer ,2014,6
+Down for Life ,2009,7.3
+Four Lions ,2010,7.3
+Defendor ,2009,6.8
+The Good Heart ,2009,6.9
+Unknown ,2011,6.9
+Chain of Command ,2015,3.5
+The Witch ,2015,6.8
+The Secret in Their Eyes ,2009,8.2
+Train ,2008,4.8
+Sharknado ,2013,3.3
+Trollhunter ,2010,7
+The Watch ,2012,5.7
+The Masked Saint ,2016,4.7
+The Betrayed ,2008,6.1
+2:13 ,2009,4.8
+"Batman: The Dark Knight Returns, Part 2 ",2013,8.4
+Time to Choose ,2015,7
+In the Name of the King: The Last Job ,2014,3.3
+Wicked Blood ,2014,5.4
+Dawn Patrol ,2014,4.8
+Lords of London ,2014,3.1
+Margin Call ,2011,7.1
+August ,2011,6.1
+Choke ,2008,6.5
+Whiplash ,2014,8.5
+Day One ,2012,6.6
+The Hunt ,2012,8.3
+The Opposite Sex ,2014,4.5
+The Class ,2008,7.5
+Adam ,2009,7.2
+Beginners ,2010,7.2
+Antiviral ,2012,5.7
+Paranormal Activity 2 ,2010,5.7
+Coming Home ,2014,7.3
+The Purge ,2013,5.7
+Sinister ,2012,6.8
+Slow West ,2015,6.9
+Next Day Air ,2009,5.9
+Before Midnight ,2013,7.9
+Please Give ,2010,6.6
+Frances Ha ,2012,7.4
+Tusk ,2014,5.4
+Letters to God ,2010,6.3
+Hobo with a Shotgun ,2011,6.1
+Compadres ,2016,5
+Fish Tank ,2009,7.3
+Damsels in Distress ,2011,5.7
+Bachelorette ,2012,5.3
+Tim and Eric's Billion Dollar Movie ,2012,5.3
+The Gambler ,2014,6
+Fort McCoy ,2011,5.9
+Chain Letter ,2009,4.1
+The Divide ,2011,5.8
+The Eclipse ,2009,6.2
+Demonic ,2015,5.3
+Alice in Wonderland ,2010,6.5
+The Deported ,2009,6.2
+Tanner Hall ,2009,5.9
+Open Road ,2013,5.5
+They Came Together ,2014,5.5
+30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo ,2013,2.6
+Never Back Down 2: The Beatdown ,2011,5.8
+Four Single Fathers ,2009,5.1
+Enter the Dangerous Mind ,2013,5.2
+Something Wicked ,2014,4.8
+AWOL-72 ,2015,3.9
+Cinderella ,2015,7
+Chicago Overcoat ,2009,6.2
+Barry Munday ,2010,5.9
+Close Range ,2015,4.9
+Amnesiac ,2014,4.3
+Freakonomics ,2010,6.4
+Griff the Invisible ,2010,6.1
+Unnatural ,2015,4
+Diary of the Dead ,2007,5.7
+Sardaar Ji ,2015,6.6
+Journey to Saturn ,2008,5.7
+Ida ,2013,7.4
+Timecrimes ,2007,7.2
+Silver Medallist ,2009,7.4
+Timber Falls ,2007,5.3
+"Fat, Sick & Nearly Dead ",2010,7.6
+A Haunted House ,2013,5.1
+2016: Obama's America ,2012,5.1
+Halloween II ,2009,4.9
+Kevin Hart: Let Me Explain ,2013,6.7
+Brick Lane ,2007,6.7
+Robot & Frank ,2012,7.1
+The Spectacular Now ,2013,7.1
+Religulous ,2008,7.7
+Fuel ,2008,7.6
+8: The Mormon Proposition ,2010,7.1
+The Other End of the Line ,2008,6.2
+Sleep Dealer ,2008,5.9
+Super ,2010,6.8
+Christmas Mail ,2010,5.8
+Stung ,2015,5
+Antibirth ,2016,6.3
+The Rise of the Krays ,2015,5
+Alien Uprising ,2012,3.1
+Go for It! ,2011,3.9
+Redemption Road ,2010,5.9
+The Calling ,2014,5.8
+8 Days ,2014,6.9
+The Last Sin Eater ,2007,5.9
+Do You Believe? ,2015,5.9
+Impact Point ,2008,4.3
+Eden ,2015,4.8
+Always Woodstock ,2014,5.3
+Jack Brooks: Monster Slayer ,2007,6
+Mi America ,2015,7.2
+[Rec] ,2007,7.5
+Lies in Plain Sight ,2010,6.3
+Sharkskin ,2015,6.7
+Containment ,2015,4.8
+The Timber ,2015,5.5
+It Follows ,2014,6.9
+Silent House ,2011,5.3
+Courageous ,2011,7
+Winter's Bone ,2010,7.2
+Inside Job ,2010,8.3
+We Are Your Friends ,2015,6.1
+Captive ,2015,5.3
+Waltz with Bashir ,2008,8
+No End in Sight ,2007,8.3
+The Diary of a Teenage Girl ,2015,6.9
+In the Shadow of the Moon ,2007,8.1
+Meek's Cutoff ,2010,6.5
+The Virginity Hit ,2010,4.6
+Teeth ,2007,5.4
+Saint John of Las Vegas ,2009,5.8
+Stonewall ,2015,4.5
+Roadside Romeo ,2008,5.3
+The Lost Medallion: The Adventures of Billy Stone ,2013,4.8
+The Last Five Years ,2014,5.9
+The Missing Person ,2009,6.2
+Circle ,2015,6
+Eden Lake ,2008,6.8
+Plush ,2013,5.4
+Vampire Killers ,2009,5.2
+Gangster's Paradise: Jerusalema ,2008,7.8
+Grave Encounters ,2011,6.1
+Stitches ,2012,5.7
+Nine Dead ,2010,5.5
+"To Be Frank, Sinatra at 100 ",2015,7.4
+Supercapitalist ,2012,3.9
+Rockaway ,2007,4.6
+No Man's Land: The Rise of Reeker ,2008,4.9
+Small Apartments ,2012,6.1
+Coffee Town ,2013,6.6
+The Ghastly Love of Johnny X ,2012,5.7
+All Is Bright ,2013,5.6
+Straight A's ,2013,5.7
+Slacker Uprising ,2007,5.3
+The Legend of Hell's Gate: An American Conspiracy ,2011,4.4
+The Walking Deceased ,2015,3.4
+The Curse of Downers Grove ,2015,4.5
+Shark Lake ,2015,3.4
+The Marine 4: Moving Target ,2015,5.2
+Buried ,2010,7
+Submarine ,2010,7.3
+The Square ,2013,8.1
+Carrie ,2013,5.9
+ABCD (Any Body Can Dance) ,2013,6.4
+Man on Wire ,2008,7.8
+Abandoned ,2015,6.3
+Brotherly Love ,2015,7.2
+The Last Exorcism ,2010,5.6
+Nowhere Boy ,2009,7.2
+Beasts of the Southern Wild ,2012,7.3
+Higher Ground ,2011,6.3
+Vaalu ,2015,5.1
+The Greatest Movie Ever Sold ,2011,6.6
+Sublime ,2007,5.3
+A Beginner's Guide to Snuff ,2016,8.7
+Independence Daysaster ,2013,3.4
+Dysfunctional Friends ,2012,5.4
+Against the Wild ,2013,4.7
+Living Dark: The Story of Ted the Caver ,2013,6.3
+Under the Same Moon ,2007,7.4
+I Spit on Your Grave ,2010,6.3
+The Lunchbox ,2013,7.8
+Grace Unplugged ,2013,6.1
+N-Secure ,2010,3.5
+Caramel ,2007,7.2
+Out of the Dark ,2014,4.7
+Cabin Fever ,2016,3.7
+Waitress ,2007,7.1
+"A Woman, a Gun and a Noodle Shop ",2009,5.7
+Kickboxer: Vengeance ,2016,9.1
+Insidious ,2010,6.8
+The Gatekeepers ,2012,7.6
+The To Do List ,2013,5.8
+Snow Angels ,2007,6.9
+Unsullied ,2014,5.5
+Mooz-Lum ,2010,6.7
+My Name Is Bruce ,2007,6.3
+Road Hard ,2015,6.1
+Amigo ,2010,5.8
+Pontypool ,2008,6.7
+Trucker ,2008,6.7
+Me You and Five Bucks ,2015,7.6
+The Lords of Salem ,2012,5.1
+Housebound ,2014,6.8
+Once Upon a Time in Queens ,2013,6.3
+Closer to the Moon ,2014,7.1
+Mutant World ,2014,2.8
+Growing Up Smith ,2015,8.2
+Checkmate ,2015,3.1
+Jack Reacher ,2012,7
+#Horror ,2015,3.3
+Wind Walkers ,2015,3.6
+The Dog Lover ,2016,4.8
+Girl House ,2014,5.5
+The Blue Room ,2014,6.3
+House at the End of the Drive ,2014,6.9
+Eddie: The Sleepwalking Cannibal ,2012,5.7
+Queen of the Mountains ,2014,8.7
+The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It ,2010,2.7
+Forget Me Not ,2009,5.2
+Filly Brown ,2012,5.7
+The Lion of Judah ,2011,3.7
+Da Sweet Blood of Jesus ,2014,4.1
+The Algerian ,2014,7.6
+The Amazing Catfish ,2013,7
+The Day the Earth Stood Still ,2008,5.5
+Home Run ,2013,6
+The Second Mother ,2015,7.9
+Blue Like Jazz ,2012,6
+"Pink Ribbons, Inc. ",2011,7.4
+Certifiably Jonathan ,2007,6.2
+Q ,2011,5.6
+The Knife of Don Juan ,2013,7.2
+Extreme Movie ,2008,3.8
+Below Zero ,2011,4.5
+Crowsnest ,2012,3.8
+The Wicked Within ,2015,4.6
+Bleeding Hearts ,2015,4.2
+Beyond the Black Rainbow ,2010,6.1
+The Raid: Redemption ,2011,7.6
+The Dead Undead ,2010,3
+The Vatican Exorcisms ,2013,2.6
+Lake Mungo ,2008,6.1
+Rocket Singh: Salesman of the Year ,2009,7.5
+The Sleepwalker ,2014,4.9
+Unfriended ,2014,5.7
+Chernobyl Diaries ,2012,5
+God's Not Dead 2 ,2016,3.4
+Blue Valentine ,2010,7.4
+The Devil Inside ,2012,4.2
+Shine a Light ,2008,7.2
+The Green Inferno ,2013,5.4
+Departure ,2015,7
+The Sessions ,2012,7.2
+"Food, Inc. ",2008,7.9
+October Baby ,2011,6.8
+Juno ,2007,7.5
+The Skeleton Twins ,2014,6.8
+Martha Marcy May Marlene ,2011,6.9
+Obvious Child ,2014,6.8
+Frozen River ,2008,7.2
+20 Feet from Stardom ,2013,7.4
+Goosebumps ,2015,6.4
+Palo Alto ,2013,6.3
+Ajami ,2009,7.4
+I Origins ,2014,7.3
+The Lovely Bones ,2009,6.7
+The Act of Killing ,2012,8.2
+Taxi to the Dark Side ,2007,7.7
+Antarctica: A Year on Ice ,2013,7.6
+A Lego Brickumentary ,2014,6.8
+Hardflip ,2012,5.6
+The House of the Devil ,2009,6.4
+The Perfect Host ,2010,6.8
+16 to Life ,2009,6.3
+Creative Control ,2015,5.5
+Heli ,2013,6.8
+Karachi se Lahore ,2015,7
+Hits ,2014,5.8
+Frat Party ,2009,2.8
+The Poker House ,2008,6.5
+Childless ,2008,6.1
+ZMD: Zombies of Mass Destruction ,2009,5.1
+Snow White: A Deadly Summer ,2012,2.2
+Hidden Away ,2014,7.2
+My Last Day Without You ,2011,5.7
+Steppin: The Movie ,2009,3.4
+Doc Holliday's Revenge ,2014,3.8
+Black Rock ,2012,4.7
+Truth or Die ,2012,5.6
+Bang Bang Baby ,2014,5.4
+Fear Clinic ,2015,5.2
+Zombie Hunter ,2013,3.5
+A Fine Step ,2014,5.3
+Trance ,2013,7
+Banshee Chapter ,2013,5.5
+Ask Me Anything ,2014,6
+And Then Came Love ,2007,4.8
+Food Chains ,2014,7.1
+L!fe Happens ,2011,5.7
+"4 Months, 3 Weeks and 2 Days ",2007,7.9
+The Horror Network Vol. 1 ,2015,7.3
+Circumstance ,2011,5.9
+Fruitvale Station ,2013,7.5
+The Brass Teapot ,2012,6.4
+The Hammer ,2007,7.3
+Snitch ,2013,6.5
+Elza ,2011,6.7
+1982 ,2013,7.1
+"For a Good Time, Call... ",2012,6
+Celeste & Jesse Forever ,2012,6.7
+American Hero ,2015,4.9
+Windsor Drive ,2015,3.2
+A Separation ,2011,8.4
+Crying with Laughter ,2009,6.9
+Harrison Montgomery ,2008,7.4
+Not Cool ,2014,5.1
+Dead Snow ,2009,6.4
+Vessel ,2012,6.2
+Aqua Teen Hunger Force Colon Movie Film for Theaters ,2007,6.9
+Safety Not Guaranteed ,2012,7
+Kevin Hart: Laugh at My Pain ,2011,7.5
+Kill List ,2011,6.3
+The Innkeepers ,2011,5.5
+The Unborn ,2009,4.8
+Donkey Punch ,2008,5.2
+Bled ,2009,3.1
+Destiny ,2014,8.1
+The Sisterhood of Night ,2014,6.3
+B-Girl ,2009,4
+Adulterers ,2015,4.9
+Escape from Tomorrow ,2013,5.2
+Starsuckers ,2009,7.4
+The Hadza: Last of the First ,2014,7.4
+After ,2012,5.4
+Treachery ,2013,3.9
+Walter ,2015,5.3
+Arnolds Park ,2007,5.6
+Water & Power ,2013,6.3
+They Will Have to Kill Us First ,2015,7.7
+Light from the Darkroom ,2014,8
+Irreplaceable ,2016,7.2
+The Maid's Room ,2013,4.5
+The Harvest/La Cosecha ,2011,7.2
+Julija in alfa Romeo ,2015,6.4
+Fireproof ,2008,6.5
+Faith Connections ,2013,7
+High Road ,2011,5.4
+To Save a Life ,2009,7.1
+Sholem Aleichem: Laughing in the Darkness ,2011,6.8
+Drinking Buddies ,2013,6.1
+Deceptive Practice: The Mysteries and Mentors of Ricky Jay ,2012,7.1
+The Other Dream Team ,2012,8.4
+Finishing the Game: The Search for a New Bruce Lee ,2007,6.2
+Rubber ,2010,5.8
+Home ,2015,6.7
+Kiss the Bride ,2007,5.7
+Monsters ,2010,6.4
+The Living Wake ,2007,6.5
+Detention of the Dead ,2012,4.6
+Good Kill ,2014,6.4
+The Outrageous Sophie Tucker ,2014,7.2
+Now Is Good ,2012,7.2
+Girls Gone Dead ,2012,3.5
+America Is Still the Place ,2015,7.5
+Subconscious ,2015,2.2
+Enter Nowhere ,2011,6.6
+The King of Najayo ,2012,6.9
+Fight to the Finish ,2016,4
+Alleluia! The Devil's Carnival ,2016,7.4
+The Sound and the Shadow ,2014,8.3
+Rodeo Girl ,2016,5.7
+Born to Fly: Elizabeth Streb vs. Gravity ,2014,6.8
+The Little Ponderosa Zoo ,2016,5.2
+Oz the Great and Powerful ,2013,6.4
+Diamond Ruff ,2015,4.3
+Mutual Friends ,2013,6.8
+Rise of the Entrepreneur: The Search for a Better Way ,2014,8.2
+Roadside ,2013,4.1
+Blue Ruin ,2013,7.1
+Paranormal Activity ,2007,6.3
+I Want Your Money ,2010,5.1
+Love in the Time of Monsters ,2014,5.4
+What Happens in Vegas ,2008,6.1
+Maniac ,2012,6.1
+Censored Voices ,2015,7.2
+Rotor DR1 ,2015,3.4
+My Dog Tulip ,2009,6.9
+Dogtooth ,2009,7.3
+Wendy and Lucy ,2008,7.1
+3 Backyards ,2010,5.2
+Royal Kill ,2009,3.2
+Across the Universe ,2007,7.4
+The Looking Glass ,2015,6.6
+Locker 13 ,2014,4.8
+Anderson's Cross ,2010,7.2
+Bizarre ,2015,4.3
+Some Guy Who Kills People ,2011,6.4
+Compliance ,2012,6.4
+Death Calls ,2010,4.3
+Amidst the Devil's Wings ,2014,4.3
+Like Crazy ,2011,6.7
+Teeth and Blood ,2015,4.3
+The Canyons ,2013,3.9
+Shotgun Stories ,2007,7.3
+Exam ,2009,6.9
+Sunday School Musical ,2008,2.5
+Rust ,2010,5.7
+Ink ,2009,7
+The Christmas Bunny ,2010,6.2
+Jesus People ,2007,6.9
+UnDivided ,2013,7.8
+The Frozen ,2012,4.4
+Horse Camp ,2014,6.6
+Give Me Shelter ,2014,8
+Along the Roadside ,2013,7.1
+Bronson ,2008,7.1
+Western Religion ,2015,4
+Burn ,2012,7.5
+The Grace Card ,2010,6.4
+Middle of Nowhere ,2012,6.5
+3 ,2010,6.8
+Call + Response ,2008,7.5
+Side Effects ,2013,7.1
+Shooting the Warwicks ,2015,6.2
+Super Hybrid ,2010,3.9
+Baghead ,2008,6
+Solitude ,2014,6.8
+Good Dick ,2008,6.5
+The Man from Earth ,2007,8
+Yesterday Was a Lie ,2008,5.4
+Theresa Is a Mother ,2012,6.7
+H. ,2014,6.3
+Archaeology of a Woman ,2012,8.1
+Weekend ,2011,7.7
+Butterfly Girl ,2014,8.7
+The World Is Mine ,2015,6.5
+Another Earth ,2011,7
+The Calling ,2014,5.8
+Perfect Cowboy ,2014,7
+Once ,2007,7.9
+The Horse Boy ,2009,7.4
+When the Lights Went Out ,2012,5.4
+Heroes of Dirt ,2015,7.1
+Antarctic Edge: 70° South ,2015,7
+Aroused ,2013,5.3
+Top Spin ,2014,7.1
+An American in Hollywood ,2014,7.2
+Sound of My Voice ,2011,6.7
+The Brain That Sings ,2013,8.2
+Your Sister's Sister ,2011,6.7
+Romantic Schemer ,2015,5.1
+A Dog's Breakfast ,2007,7
+A Dog's Breakfast ,2007,7
+The Birth of a Nation ,2016,5.4
+The Gallows ,2015,4.2
+"Dude, Where's My Dog?! ",2014,3.2
+Cheap Thrills ,2013,6.8
+Indie Game: The Movie ,2012,7.7
+Closure ,2007,5.6
+Echo Dr. ,2013,3.6
+The Past is a Grotesque Animal ,2014,7.6
+The Last House on the Left ,2009,6.6
+Queen Crab ,2015,4.5
+The FP ,2011,5.6
+Happy Christmas ,2014,5.6
+Tiger Orange ,2014,6.8
+Supporting Characters ,2012,6.3
+Absentia ,2011,5.8
+The Dirties ,2013,6.7
+Tiny Furniture ,2010,6.3
+Hayride ,2012,3.4
+Counting ,2015,6
+Bending Steel ,2013,7.9
+The Signal ,2014,6.1
+The Image Revolution ,2014,7.4
+This Is Martin Bonner ,2013,6.6
+A True Story ,2013,5.5
+Dawn of the Crescent Moon ,2014,5
+Raymond Did It ,2011,3.2
+"Run, Hide, Die ",2012,3.7
+The Exploding Girl ,2009,6.3
+The Legend of God's Gun ,2007,4.1
+Her Cry: La Llorona Investigation ,2013,5.4
+Down Terrace ,2009,6.5
+Sabotage ,2014,5.7
+Rampage ,2009,6.3
+Dutch Kills ,2015,4.8
+Dry Spell ,2013,3.3
+Exeter ,2015,4.6
+The Ridges ,2011,3
+Stories of Our Lives ,2014,7.4
+Breaking Upwards ,2009,6.2
+All Superheroes Must Die ,2011,4
+Tin Can Man ,2007,6.7
+Sanctuary; Quite a Conundrum ,2012,5.4
+Newlyweds ,2011,6.4
+Signed Sealed Delivered ,2013,7.7
+A Plague So Pleasant ,2013,6.3
+Shanghai Calling ,2012,6.3
